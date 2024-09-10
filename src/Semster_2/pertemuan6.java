@@ -1,4 +1,3 @@
-package semester2;
 
 import java.util.Scanner;
 import java.io.BufferedReader;
