@@ -1,6 +1,6 @@
 package latihan.week1;
 import java.util.Scanner;
-public class Index {
+public class Index_satu {
     public static void main(String[] str){
         Proxytia test1 = new Proxytia();
         test1.testResultOne();

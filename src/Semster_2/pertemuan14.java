@@ -1,4 +1,4 @@
-package semester2;
+package Semster_2;
 
 import java.util.Scanner;
 public class pertemuan14 {

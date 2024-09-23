@@ -1,8 +1,6 @@
 package Semster_3;
 
-import java.util.Locale;
-
-public class p2 {
+public class Tugas_dua {
     public static void  main(String [] args){
         //outputnya: 1. reno pake looping
         //outputnya: 2. oner pake looping
@@ -18,7 +16,7 @@ public class p2 {
     static class palindrom {
         public void result1(){
             String a [] = {"m", "o", "m"};
-            String change = String.join("", a);
+            String change = String.join("", a); //mengubah array mnjadi string
             String result = "" ;
             System.out.println(change);
 
@@ -34,7 +32,7 @@ public class p2 {
     }
 
 
-    static class name {
+     static class name {
         public void changeName(){
             String b [] = {"r", "e", "n", "o"};
             String name1 = "";
@@ -47,7 +45,7 @@ public class p2 {
                 name2 += b[j];
             }
 
-            System.out.print("nama: " + name1 + "\n" + "name: " + name2);
+            System.out.println("nama: " + name1 +"\n"+"dibalik: " + name2);
         }
     }
 }
