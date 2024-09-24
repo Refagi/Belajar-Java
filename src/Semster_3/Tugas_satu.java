@@ -1,7 +1,7 @@
 package Semster_3;
 
 import java.util.Scanner;
-public class Tugas {
+public class Tugas_satu {
     public static void main(String[] args){
         tugas1 tugasSatu = new tugas1();
         tugasSatu.result1();
