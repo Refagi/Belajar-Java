@@ -1,6 +1,6 @@
 package Semster_3;
 
-public class Test {
+public class Pertemuan5 {
     public static void main(String[] args) {
 //        Manual nomerStau = new Manual();
 //        nomerStau.testManual();

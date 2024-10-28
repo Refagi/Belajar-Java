@@ -3,11 +3,11 @@ package Semster_3;
 public class Tugas_empat {
     public static String testCase = "Pemrograman Java";
     public static void main(String[] args) {
-        SegitigaMengecil testOne = new SegitigaMengecil();
-        testOne.numberOne();
+//        SegitigaMengecil testOne = new SegitigaMengecil();
+//        testOne.numberOne();
 
-        TampilString testTwo = new TampilString();
-        testTwo.numberTwo();
+//        TampilString testTwo = new TampilString();
+//        testTwo.numberTwo();
 
         SegitigaMembesar testThree = new SegitigaMembesar();
         testThree.numberThree();
@@ -30,7 +30,6 @@ public class Tugas_empat {
             }
         }
     }
-
     static class SegitigaMembesar{
         public void numberThree(){
             for(int k = testCase.length() - 1; k >= 0; k--){
